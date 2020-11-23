@@ -1,1 +1,2 @@
 Ovo je dokument pomoću kojeg ću učiti Git.
+Evo commit iz brancha :).
